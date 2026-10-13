@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zodiac143o/Leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zodiac143o/Leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zodiac143o/Leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
