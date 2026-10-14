@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zodiac143o/Leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
