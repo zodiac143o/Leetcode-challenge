@@ -31,5 +31,6 @@
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
