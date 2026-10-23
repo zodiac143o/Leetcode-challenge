@@ -32,6 +32,19 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/zodiac143o/Leetcode-challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
